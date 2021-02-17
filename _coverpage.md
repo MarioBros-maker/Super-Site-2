@@ -6,5 +6,3 @@
 
 [Github](https://github.com/MarioBros-maker/Super-Site-2)
 [进入](README.md)
-
-![](media\bg1.png)
