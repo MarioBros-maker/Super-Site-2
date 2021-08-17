@@ -13,6 +13,10 @@
 
 [俺滴网盘](http://smbfans.ys168.com)
 
+[SMBX中文主页](https://smbx.miriao.ga)
+
+[SM4J](HTTPS://sm4j.yidaozhan.gq)
+
 
 # 生草之事
 > 这个小站本应是有封面的，但不知道为啥就没了，草
